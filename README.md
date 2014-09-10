@@ -1,4 +1,4 @@
 mongo-polls
 ===========
 
-polls app using django-nonrel with mongodb
+poll app using django-nonrel with mongodb
